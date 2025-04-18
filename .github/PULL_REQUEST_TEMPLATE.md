@@ -1,11 +1,6 @@
 ## Task
 [Provide the task name(optional), task id and status, e.g., Ultra Cool Task #taskId[status]]
 
-## Title
-[if you provided a meaningful subject line this can be removed]
-
-[Provide a succinct and descriptive title for the pull request, e.g., "Improve caching mechanism for API calls"]
-
 ## Type of Change
 - [ ] New feature
 - [ ] Bug fix
