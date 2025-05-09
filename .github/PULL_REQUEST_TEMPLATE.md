@@ -9,6 +9,7 @@
 - [ ] Refactoring
 - [ ] Hotfix
 - [ ] Security patch
+- [ ] e2e tests
 
 ## Testing
 [Detail the testing you have performed to ensure that these changes function as intended. Include information about any added tests.]
